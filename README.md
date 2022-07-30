@@ -4,10 +4,10 @@
 
 # Pattern_1
 OUTPUT:
-*
+<!-- *
 **
 ***
-****
+**** --!>
 
 # Pattern_2
 OUTPUT:
