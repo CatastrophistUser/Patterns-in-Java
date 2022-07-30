@@ -3,7 +3,7 @@
 <h4>The Patterns are listed below:</h4>
 
 # Pattern_1
-OUTPUT:
+OUTPUT:              <br>
 &#42;                <br>
 &#42;&#42;           <br>
 &#42;&#42;&#42;      <br>
