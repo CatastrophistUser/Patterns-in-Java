@@ -1,4 +1,4 @@
-<h1>Patterns-in-Java <being updated></h1>
+<h1>Patterns-in-Java [being updated]</h1>
 <h2>This repository documents the patterns made using Java</h2>
 <h4>The Patterns are listed below:</h4>
 
