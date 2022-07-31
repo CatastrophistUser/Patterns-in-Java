@@ -17,11 +17,11 @@ OUTPUT:              <br>
 &#42;                <br>
 
 # Pattern_3
-OUTPUT:          
-1
-22
-333
-4444
+OUTPUT:              <br>
+1                    <br>
+22                   <br>
+333                  <br>
+4444                 <br>
 
 # Pattern_4
 OUTPUT:
