@@ -15,3 +15,13 @@ OUTPUT:              <br>
 &#42;&#42;&#42;      <br>
 &#42;&#42;           <br>
 &#42;                <br>
+
+# Pattern_3
+OUTPUT:          
+1
+22
+333
+4444
+
+# Pattern_4
+OUTPUT:
