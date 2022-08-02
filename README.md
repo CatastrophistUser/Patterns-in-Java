@@ -29,3 +29,10 @@ OUTPUT:              <br>
 333                  <br>
 22                   <br>
 1                    <br>
+
+# Pattern_5
+OUTPUT:             <br> 
+1                   <br>
+23                  <br>
+456                 <br>
+78910               <br>
