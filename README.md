@@ -24,4 +24,8 @@ OUTPUT:              <br>
 4444                 <br>
 
 # Pattern_4
-OUTPUT:
+OUTPUT:              <br>
+4444                 <br>
+333                  <br>
+22                   <br>
+1                    <br>
