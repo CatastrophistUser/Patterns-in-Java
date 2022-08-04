@@ -43,3 +43,10 @@ OUTPUT:            <br>
 543                <br>
 21                 <br>
 0                  <br>
+
+# Pattern_7
+OUTPUT:            <br>
+0123               <br>
+456                <br>
+78                 <br>
+9                  <br>
