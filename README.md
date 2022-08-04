@@ -36,3 +36,10 @@ OUTPUT:             <br>
 23                  <br>
 456                 <br>
 78910               <br>
+
+# Pattern_6
+OUTPUT:            <br>
+9876               <br>
+543                <br>
+21                 <br>
+0                  <br>
