@@ -50,3 +50,10 @@ OUTPUT:            <br>
 456                <br>
 78                 <br>
 9                  <br>
+
+# Pattern_8
+OUTPUT:            <br>
+444                <br>
+33                 <br>
+222                <br>
+1111               <br>
