@@ -57,3 +57,10 @@ OUTPUT:            <br>
 33                 <br>
 222                <br>
 1111               <br>
+
+# Pattern_9
+OUTPUT:            <br>
+1111               <br>
+222                <br>
+33                 <br>
+4                  <br>
