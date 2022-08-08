@@ -66,8 +66,8 @@ OUTPUT:            <br>
 4                  <br>
 
 # Pattern_10
-OUTPUT:
-9    
-87
-654
-3210
+OUTPUT:            <br>
+9                  <br>
+87                 <br>
+654                <br>
+3210               <br>
