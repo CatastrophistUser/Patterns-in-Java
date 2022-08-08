@@ -64,3 +64,10 @@ OUTPUT:            <br>
 222                <br>
 33                 <br>
 4                  <br>
+
+# Pattern_10
+OUTPUT:
+9    
+87
+654
+3210
