@@ -71,3 +71,10 @@ OUTPUT:            <br>
 87                 <br>
 654                <br>
 3210               <br>
+
+# Pattern_11
+OUTPUT:            <br>
+1                  <br>
+12                 <br>
+123                <br>
+1234               <br>
