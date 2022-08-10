@@ -78,3 +78,10 @@ OUTPUT:            <br>
 12                 <br>
 123                <br>
 1234               <br>
+
+# Pattern_12
+OUTPUT:            <br>
+1                  <br>
+21                 <br>
+321                <br>
+4321               <br>
