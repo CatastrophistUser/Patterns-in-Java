@@ -85,3 +85,11 @@ OUTPUT:            <br>
 21                 <br>
 321                <br>
 4321               <br>
+
+# Pattern_13
+OUTPUT:            <br>
+4                  <br> 
+43                 <br>
+432                <br>
+4321               <br>
+
