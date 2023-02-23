@@ -93,3 +93,9 @@ OUTPUT:            <br>
 432                <br>
 4321               <br>
 
+# Pattern_14
+OUTPUT:            <br>
+4                  <br>
+34                 <br>
+234                <br>
+1234               <br>
