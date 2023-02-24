@@ -99,3 +99,10 @@ OUTPUT:            <br>
 34                 <br>
 234                <br>
 1234               <br>
+
+# Pattern_15
+OUTPUT:            <br>
+1234               <br>            
+123                <br>
+12                 <br>
+1                  <br>
