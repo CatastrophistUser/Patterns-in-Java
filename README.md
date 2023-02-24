@@ -102,7 +102,7 @@ OUTPUT:            <br>
 
 # Pattern_15
 OUTPUT:            <br>
-1234               <br>            
+1234               <br>
 123                <br>
 12                 <br>
 1                  <br>
