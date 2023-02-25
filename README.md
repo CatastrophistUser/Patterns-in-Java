@@ -106,3 +106,10 @@ OUTPUT:            <br>
 123                <br>
 12                 <br>
 1                  <br>
+
+# Pattern_16
+OUTPUT:            <br>
+1234               <br>
+234                <br>
+34                 <br>
+4                  <br>
