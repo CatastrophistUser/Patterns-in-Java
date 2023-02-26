@@ -113,3 +113,10 @@ OUTPUT:            <br>
 234                <br>
 34                 <br>
 4                  <br>
+
+# Pattern_17
+OUTPUT:            <br>
+4321               <br>
+432                <br>
+43                 <br>
+4                  <br>
