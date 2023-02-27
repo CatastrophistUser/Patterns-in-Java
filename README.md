@@ -120,3 +120,10 @@ OUTPUT:            <br>
 432                <br>
 43                 <br>
 4                  <br>
+
+# Pattern_18
+OUTPUT:            <br>
+4321               <br>
+321                <br>
+21                 <br>
+1                  <br>
