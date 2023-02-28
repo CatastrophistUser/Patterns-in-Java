@@ -127,3 +127,10 @@ OUTPUT:            <br>
 321                <br>
 21                 <br>
 1                  <br>
+
+# Pattern_19
+OUTPUT:            <br>
+    *              <br>
+   **              <br>
+  ***              <br>
+ ****              <br>
