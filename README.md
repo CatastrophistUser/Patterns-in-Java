@@ -134,3 +134,10 @@ OUTPUT:            <br>
    **              <br>
   ***              <br>
  ****              <br>
+
+# Pattern_20
+OUTPUT:            <br>
+****               <br>
+ ***               <br>
+  **               <br>
+   *               <br>
