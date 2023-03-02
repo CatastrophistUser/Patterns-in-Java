@@ -141,3 +141,10 @@ OUTPUT:            <br>
  ***               <br>
   **               <br>
    *               <br>
+
+# Pattern_21
+OUTPUT:            <br>
+    1              <br>
+   22              <br>
+  333              <br>
+ 4444              <br>
