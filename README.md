@@ -153,7 +153,7 @@ OUTPUT:            <br>
 
 # Pattern_22
 OUTPUT:            <br>
-    1234           <br>
-   234             <br>
-  34               <br>
- 4                 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;1234           <br>
+&nbsp;&nbsp;&nbsp;234             <br>
+&nbsp;&nbsp;34               <br>
+&nbsp;4                 <br>
