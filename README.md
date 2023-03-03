@@ -148,3 +148,10 @@ OUTPUT:            <br>
    22              <br>
   333              <br>
  4444              <br>
+
+# Pattern_22
+OUTPUT:            <br>
+    1234           <br>
+   234             <br>
+  34               <br>
+ 4                 <br>
