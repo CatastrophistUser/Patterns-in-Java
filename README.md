@@ -140,7 +140,9 @@ OUTPUT:            <br>
 ****               <br>
  ***               <br>
   **               <br>
-   *               <br>
+   *               
+
+<br>
 
 # Pattern_21
 OUTPUT:            <br>
